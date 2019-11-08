@@ -35,7 +35,7 @@ Option 1:
 Option 2:
 
 {
-	"ScoringValuesSet": "2:lRsct,4:diOug,3:bNsp,5:fhcMvwy,1:aErk,8:jx,10:qz"
+	"ScoringValuesSet": "2:lRsct,4:diOug,3:bNp,5:fhcMvwy,1:aErk,8:jx,10:qz"
 }
 
 https://localhost:5101/api/ScrabbleScores/getScore?word={AnyWord}&setId={1}   - get ScrabbleScore for word
