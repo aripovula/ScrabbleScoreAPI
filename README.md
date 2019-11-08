@@ -9,7 +9,7 @@ https://localhost:5101/api/ScrabbleScores/{X}      - get Xth ScrabbleScore saved
 post body option:
 
 {
-  "ScrabbleScore": "12",
+  "ScrabbleScore": 12,
   "Word": "ABC"
 }
 
